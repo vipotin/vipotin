@@ -24,6 +24,7 @@ Tools
 ![GitLab](https://a11ybadges.com/badge?logo=gitlab)
 ![Jenkins](https://a11ybadges.com/badge?logo=jenkins)
 ![Travis CI](https://a11ybadges.com/badge?logo=travisci)
+![Bitbucket](https://a11ybadges.com/badge?logo=bitbucket)
 ![Jira](https://a11ybadges.com/badge?logo=jira)
 ![Confluence](https://a11ybadges.com/badge?logo=confluence)
 ![Trello](https://a11ybadges.com/badge?logo=trello)
