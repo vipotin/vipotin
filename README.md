@@ -4,7 +4,8 @@
 
 - Infrastructure as Code
   - [Terraform-Heroku](https://github.com/vipotin/terraform-heroku-deployment)
-- Web development
+- Fullstack development
+  - [Board game search](https://github.com/vipotin/board-game-search)
   - [Fullstack course](https://github.com/vipotin/fullstackopen20)
 - UI/UX
   - [Experience design with Pepper robot](https://github.com/Vera-D/UXbotz)
