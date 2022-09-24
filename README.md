@@ -12,6 +12,10 @@
   - [AdobeXD design](https://github.com/vipotin/AdobeXD-project)
 - Docker
   - [Weather app exercise](https://github.com/vipotin/weatherapp)
+  
+#### Certifications
+
+https://www.credly.com/users/vilma-pohjonen/badges
 
 #### Tech and tooling stack
 
